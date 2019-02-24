@@ -10,7 +10,7 @@ func sayHello(w http.ResponseWriter, r *http.Request) {
 	if err != nil {
 		panic(err)
 	}
-	fmt.Fprintf(w, "hostname: " + name) 
+	fmt.Fprintf(w, "hostname: " + name + "\n") 
 }
 
 func main() {
