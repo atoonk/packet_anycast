@@ -1,7 +1,7 @@
 # packet_anycast
 Building an Anycast application in 5 minutes on Packet using terraform
 
-[Also see my blog: Building a high available Anycast application in 5 minutes on Packet](https://medium.com/@atoonk/building-a-high-available-anycast-application-in-5-minutes-on-packet-198c82eaabc)
+[Also see my blog: Building a high available Anycast application in 5 minutes on Packet](https://toonk.io/building-a-high-available-anycast-application-in-5-minutes-on-packet/index.html)
 
 _Defining and deploying your applications like we did here, using infrastructure as code and Anycast used to be reserved for the large CDN’s, DNS and major infrastructure providers. Packet now makes it easy for everyone to build high available and low latency infrastructure. Working with Packet has been a great experience and I recommend everyone to give it a spin._
 
